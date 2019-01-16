@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+Error: Cannot find module './game.js'
+    at Function.Module._resolveFilename (module.js:548:15)
+    at Function.Module._load (module.js:475:25)
+    at Module.require (module.js:597:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (C:\IISNode\server.js:37:14)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)

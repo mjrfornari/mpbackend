@@ -1,0 +1,5 @@
+listening on *:\\.\pipe\56e12321-c2e9-4d04-9cfa-dfa9fe618bea
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]

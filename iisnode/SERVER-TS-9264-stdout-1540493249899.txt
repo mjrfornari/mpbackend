@@ -1,0 +1,4 @@
+listening on *:\\.\pipe\ee02fca7-ae09-4f48-a9a0-112e9d24e50b
+entrou
+cnpj
+[ { PK_VEN: 9999 } ]

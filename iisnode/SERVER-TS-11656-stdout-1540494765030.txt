@@ -1,0 +1,29 @@
+listening on *:\\.\pipe\3cb87df9-38dc-4ff4-95ea-fb08b3626fc4
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]
+cnpj
+[ { PK_VEN: 9999 } ]

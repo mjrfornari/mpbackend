@@ -1,0 +1,3 @@
+listening on *:\\.\pipe\c3d8e4a4-19c7-44a9-a5d9-3cc310adde09
+cpf
+[]
